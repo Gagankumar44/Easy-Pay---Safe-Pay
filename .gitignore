@@ -1,0 +1,39 @@
+# Local credentials; publish only empty example configuration.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Installed dependencies and generated output.
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Private demo records, recordings, and runtime logs.
+/backend/data/
+*.sqlite
+*.sqlite3
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3-shm
+*.sqlite3-wal
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Local editor and operating-system files.
+.DS_Store
+Thumbs.db
+.idea/
+.vercel/

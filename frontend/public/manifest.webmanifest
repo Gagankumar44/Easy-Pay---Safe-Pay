@@ -1,0 +1,18 @@
+{
+  "name": "Easy Pay — Safe Pay",
+  "short_name": "Easy Pay",
+  "description": "Accessible payment guidance and fraud help. Fictional practice demo.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#245d46",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
