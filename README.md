@@ -1,5 +1,7 @@
 # Easy Pay — Safe Pay
 
+**[▶ Watch the demo video](https://drive.google.com/file/d/1_WbXcZiroIDpUTdkGXjmSojt1IstFrZn/view?usp=sharing)**
+
 A local hackathon prototype for understandable payments and fraud support. Bills and payments are fictional; app accounts provide local access to practice activity. This version extends the original Next.js + FastAPI project with a neutral interface, one green action colour and warning colours only for meaningful states.
 
 ## Run locally
